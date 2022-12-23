@@ -1,17 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Pedro Costa Nunes</h1>
-<h3 align="center">Um publicitário que se apaixonou por análise de dados</h3>
+<h1 align="center">olá 👋, eu sou o Pedro Costa Nunes</h1>
+<h3 align="center">um publicitário que se apaixonou por análise de dados</h3>
 
-- 💬 Já sei um bocado sobre **Python, SQL, Power BI, Tableu e Looker Studio**
+- 💬 sei um bocado sobre **Python, SQL, Power BI, Tableu e Looker Studio**
 
-- 🌱 No momento estou estudando **Machine Learning, AWS, Web Scraping**
+- 🌱 no momento estou estudando **Machine Learning, AWS, Web Scraping**
 
-- 👨‍💻 Todos os meus projetos estão aqui: [(link em breve)]((link em breve))
+- 👨‍💻 todos os meus projetos estão aqui: [(link em breve)]((link em breve))
 
-- 📄 E minha trajetória profissional aqui: [https://www.linkedin.com/in/pedrolcnunes/](https://www.linkedin.com/in/pedrolcnunes/)
+- 📄 e minha trajetória profissional aqui: [https://www.linkedin.com/in/pedrolcnunes/](https://www.linkedin.com/in/pedrolcnunes/)
 
-- 📫 Fale comigo pelo **pedrolcnunes@gmail.com**
+- 📫 fale comigo pelo **pedrolcnunes@gmail.com**
 
-- ⚡ Fun fact: **Tem uns 10 anos que me sinto com 25 anos**
+- ⚡ fun fact: **Tem uns 10 anos que me sinto com 25 anos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
