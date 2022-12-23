@@ -11,7 +11,7 @@
 
 - 📫 fale comigo pelo **pedrolcnunes@gmail.com**
 
-- ⚡ fun fact: **Tem uns 10 anos que me sinto com 25 anos**
+- ⚡ fun fact: **faz uns 10 anos que me sinto com 25 anos**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
