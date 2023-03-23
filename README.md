@@ -3,9 +3,9 @@
 
 - 💬 sei um bocado sobre **Python, SQL, Power BI, Tableu e Looker Studio**
 
-- 🌱 no momento estou estudando **Machine Learning, AWS, Web Scraping**
+- 🌱 no momento estou estudando **Machine Learning, DAX Studio, Tableau**
 
-- 👨‍💻 todos os meus projetos estão aqui: [(link em breve)]((link em breve))
+- 👨‍💻 você pode dar uma olhada no meu portfólio [aqui](https://github.com/pedrocostanunes?tab=repositories):
 
 - 📄 e minha trajetória profissional aqui: [https://www.linkedin.com/in/pedrolcnunes/](https://www.linkedin.com/in/pedrolcnunes/)
 
