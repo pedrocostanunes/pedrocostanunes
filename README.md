@@ -1,9 +1,9 @@
 <h1 align="center">olá 👋, eu sou o Pedro Costa Nunes</h1>
 <h3 align="center">um publicitário que se apaixonou por análise de dados</h3>
 
-- 💬 sei um bocado sobre **Python, SQL, Power BI, Tableu e Looker Studio**
+- 💬 fale comigo sobre **Python, SQL, Power BI, Looker Studio e Excel**
 
-- 🌱 no momento estou estudando **Machine Learning, DAX Studio, AWS**
+- 🌱 no momento estou estudando **Machine Learning, DAX Studio, AWS e Tableau**
 
 - 👨‍💻 você pode dar uma olhada no meu portfólio [aqui](https://github.com/pedrocostanunes?tab=repositories)
 
